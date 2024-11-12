@@ -1,0 +1,13 @@
+.h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 300px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px black;  /* Horizontal offset, Vertical offset, Blur radius, Color */
+    text-align: center; /* Ensure text is centered */
+    padding: 20px; /* Optional: Add some padding for spacing around text */
+    width: 300px;
+    
+}
